@@ -1,0 +1,27 @@
+include propeller_design_tools/supporting_files/*.png
+include propeller_design_tools/supporting_files/*.wav
+include propeller_design_tools/supporting_files/*.txt
+
+include propeller_design_tools/foil_database/*.dat
+include propeller_design_tools/foil_database/*.exe
+
+include propeller_design_tools/prop_database/MyPropeller/blade_profiles/*.txt
+include propeller_design_tools/prop_database/MyPropeller/station_polars/*.polar
+include propeller_design_tools/prop_database/MyPropeller/*.meta
+include propeller_design_tools/prop_database/MyPropeller/*.xrop
+include propeller_design_tools/prop_database/MyPropeller/*.xrr
+
+include propeller_design_tools/prop_database/MyPropeller2/blade_profiles/*.txt
+include propeller_design_tools/prop_database/MyPropeller2/station_polars/*.polar
+include propeller_design_tools/prop_database/MyPropeller2/*.meta
+include propeller_design_tools/prop_database/MyPropeller2/*.xrop
+include propeller_design_tools/prop_database/MyPropeller2/*.xrr
+
+include propeller_design_tools/prop_database/MyPropeller3/blade_profiles/*.txt
+include propeller_design_tools/prop_database/MyPropeller3/station_polars/*.polar
+include propeller_design_tools/prop_database/MyPropeller3/*.meta
+include propeller_design_tools/prop_database/MyPropeller3/*.xrop
+include propeller_design_tools/prop_database/MyPropeller3/*.xrr
+
+include propeller_design_tools/prop_database/*.exe
+

@@ -1,0 +1,2 @@
+airfoil_database: C:/Users/Jake/Desktop/Python Projects/propeller_design_tools/propeller_design_tools/foil_database
+propeller_database: C:/Users/Jake/Desktop/Python Projects/propeller_design_tools/propeller_design_tools/prop_database
